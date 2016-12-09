@@ -1,0 +1,25 @@
+{
+  "root": "./docs",
+  "title": "**白皮书",
+  "description": "**白皮书",
+  "author": "baochunyu",
+  "plugins": [
+    "theme-api"
+  ],
+  "pluginsConfig": {
+    "theme-api": {
+      "theme": "dark",
+      "languages": [
+        {
+          "lang": "js",
+          "name": "JavaScript",
+          "default": true
+        },
+        {
+          "lang": "go",
+          "name": "Go"
+        }
+      ]
+    }
+  }
+}
